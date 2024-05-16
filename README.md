@@ -15,4 +15,7 @@ PyBlackJack is a fun way to waste time at the terminal playing blackjack with a 
 - Enjoy the thrill of Blackjack right from your command line!
 
 ## Screenshots
-
+![Title](screenshots/title.png?raw=true "Title of Game")
+![Menu](screenshots/menu.png?raw=true "Main menu to play")
+![Start](screenshots/start.png?raw=true "Start of a game")
+![Win](screenshots/win.png?raw=true "Player wins a game")
